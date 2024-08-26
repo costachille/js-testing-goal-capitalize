@@ -1,2 +1,2 @@
 # js-testing-goal-capitalize
-js-testing-goal-capitalize(Hexlet)
+Урок: https://bit.ly/2ARgQNL
